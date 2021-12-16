@@ -4,8 +4,7 @@
 #Add an index page to a book
 #This program will take in a file, identify every words found in the file (and
 #every line number on which each word is found), sort the words alphabetically,
-#and print words and associated line numbers they can be found in the file to
-#the screen
+#and print words and associated line numbers to the screen
 
 {
 	gsub(/\//, " ")               #Words separated by slashes become two words
