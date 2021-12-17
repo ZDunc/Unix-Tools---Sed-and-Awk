@@ -7,5 +7,5 @@ Unix Tools Coursework - Sed and Awk
 
 ## (2) Replace Sensitive Information Program
 ### PROGRAM DESCRIPTION -- Run program on a file to replace all instances of a personal email to a generic email (account@example.com), and replace a specific IP address to an example IP
-### NOTE: this program is coded to cater a specific email (zduncan@cs.fsu.edu) but can be manipulated easily to work with any email desired
+### NOTE: this program is coded to cater a specific email (zduncan@cs.fsu.edu) & specific IP (displayed in code) but can be manipulated easily to work with any email/ IP desired
 - sensitive_info.sed
